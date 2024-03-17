@@ -1,3 +1,3 @@
 # Deep Learning - Credit card challenge
 
-Open challenge designed to practice Neural Network skills, with a real-life problem and without much guidance.  
+🎯 The goal of this challenge is to build a Credit Card fraud detector model using Neural Networks.
